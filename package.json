@@ -1,0 +1,15 @@
+{
+  "name": "node-blockchain",
+  "version": "1.0.0",
+  "description": "Simple blockchain implemented using Node",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "John Goldsmith <johngoldsm1@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "15.12.4",
+    "typescript": "4.3.4"
+  }
+}
